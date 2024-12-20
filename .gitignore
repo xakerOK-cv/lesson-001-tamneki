@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+.idea/
+
+
+# Другие файлы, которые могут быть не нужны в репозитории
+*.log
+*.pyc
+__pycache__/
